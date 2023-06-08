@@ -1,2 +1,0 @@
-# TEST
-Coursera test repository
